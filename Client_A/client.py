@@ -5,7 +5,7 @@ import subprocess
 import sys
 
 # set directory for file server
-root = "Root/"
+root = "/home/abhinav/final/Project-Distributed-File-System/Server_A/Root/"
 
 
 def open_file(file_name):

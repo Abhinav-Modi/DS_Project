@@ -8,7 +8,7 @@ import random
 import struct
 
 # set directory for file server
-root = "Root/"
+root = "/home/abhinav/final/Project-Distributed-File-System/Server_C/Root/"
 # set port for server
 port = 5557
 # set port for server client socket
